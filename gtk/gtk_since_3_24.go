@@ -10,6 +10,6 @@ import "C"
  * GtkInputPurpose
  */
 
-const (
-	INPUT_PURPOSE_TERMINAL InputPurpose = C.GTK_INPUT_PURPOSE_TERMINAL
-)
+// const (
+// 	INPUT_PURPOSE_TERMINAL InputPurpose = C.GTK_INPUT_PURPOSE_TERMINAL
+// )
